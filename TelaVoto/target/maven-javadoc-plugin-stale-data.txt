@@ -1,0 +1,49 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+--release
+23
+-sourcepath
+'C:/Users/renat/Documents/NetBeansProjects/TelaVoto/src/main/java;C:/Users/renat/Documents/NetBeansProjects/TelaVoto/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/renat/Documents/NetBeansProjects/TelaVoto/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'TelaVoto 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'TelaVoto 1.0-SNAPSHOT API'
+'C:/Users/renat/Documents/NetBeansProjects/TelaVoto/src/main/java/TelaVoto.java'
+C:\Users\renat\Documents\NetBeansProjects\TelaVoto\src\main\java\TelaVoto.form = 1727982548313
+C:\Users\renat\Documents\NetBeansProjects\TelaVoto\src\main\java\TelaVoto.java = 1727982548328
+C:\Users\renat\Documents\NetBeansProjects\TelaVoto\src\main\java = 1727981354342
+C:\Users\renat\Documents\NetBeansProjects\TelaVoto\target\generated-sources\annotations = 1727982553864
+C:\Users\renat\Documents\NetBeansProjects\TelaVoto\target\reports\apidocs\allclasses-index.html = 1727983412819
+C:\Users\renat\Documents\NetBeansProjects\TelaVoto\target\reports\apidocs\allpackages-index.html = 1727983412822
+C:\Users\renat\Documents\NetBeansProjects\TelaVoto\target\reports\apidocs\element-list = 1727983412765
+C:\Users\renat\Documents\NetBeansProjects\TelaVoto\target\reports\apidocs\help-doc.html = 1727983412834
+C:\Users\renat\Documents\NetBeansProjects\TelaVoto\target\reports\apidocs\index-all.html = 1727983412829
+C:\Users\renat\Documents\NetBeansProjects\TelaVoto\target\reports\apidocs\index.html = 1727983412831
+C:\Users\renat\Documents\NetBeansProjects\TelaVoto\target\reports\apidocs\member-search-index.js = 1727983412824
+C:\Users\renat\Documents\NetBeansProjects\TelaVoto\target\reports\apidocs\module-search-index.js = 1727983412822
+C:\Users\renat\Documents\NetBeansProjects\TelaVoto\target\reports\apidocs\overview-tree.html = 1727983412809
+C:\Users\renat\Documents\NetBeansProjects\TelaVoto\target\reports\apidocs\package-search-index.js = 1727983412823
+C:\Users\renat\Documents\NetBeansProjects\TelaVoto\target\reports\apidocs\package-summary.html = 1727983412770
+C:\Users\renat\Documents\NetBeansProjects\TelaVoto\target\reports\apidocs\package-tree.html = 1727983412777
+C:\Users\renat\Documents\NetBeansProjects\TelaVoto\target\reports\apidocs\package-use.html = 1727983412807
+C:\Users\renat\Documents\NetBeansProjects\TelaVoto\target\reports\apidocs\search.html = 1727983412830
+C:\Users\renat\Documents\NetBeansProjects\TelaVoto\target\reports\apidocs\serialized-form.html = 1727983412797
+C:\Users\renat\Documents\NetBeansProjects\TelaVoto\target\reports\apidocs\tag-search-index.js = 1727983412824
+C:\Users\renat\Documents\NetBeansProjects\TelaVoto\target\reports\apidocs\TelaVoto.html = 1727983412764
+C:\Users\renat\Documents\NetBeansProjects\TelaVoto\target\reports\apidocs\type-search-index.js = 1727983412823
